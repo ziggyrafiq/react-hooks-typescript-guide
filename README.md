@@ -1,7 +1,7 @@
 # Functional Components with React Hooks and TypeScript (repo: react-hooks-typescript-guide)
 A comprehensive guide to using React Hooks and TypeScript to develop efficient functional components is provided in this article. TypeScript's static typing enhances clarity and robustness in the code by combining React Hooks such as useState, useEffect, and useContext with React Hooks like useState, useEffect, and useContext. The guide delves into practical examples, demonstrating how to implement these hooks to manage state, manage side effects, access context values, and create custom reusable logic. In the end, this fusion of React Hooks and TypeScript fosters a productive and error-resistant React development experience by allowing developers to write cleaner, more maintainable code.
  
- **Read The Article on [C# Corner: Functional Components with React Hooks and TypeScript ](https://www.c-sharpcorner.com/article/how-to-get-started-with-react-and-typescript-a-beginners-guide/)
+ **Read The Article on [C# Corner: Functional Components with React Hooks and TypeScript ](https://www.c-sharpcorner.com/article/functional-components-with-react-hooks-and-typescript2/)
 
 ## Getting Started
 Clone this repository to your local machine to get started using the resources:
